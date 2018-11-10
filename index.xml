@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Kill Zone" indexUrl="https://github.com/mrvitriol/kill_zone.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Kill_Zone.gstz" dataType="gamesystem" dataId="2409-8f27-4979-8239" dataName="Kill Zone" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Rebels.catz" dataType="catalogue" dataId="0d6b-68a3-c90f-4514" dataName="Rebels" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="StreetCops.catz" dataType="catalogue" dataId="f9d3-2825-feca-80c0" dataName="StreetCops Task Force" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="Savages.catz" dataType="catalogue" dataId="e192-5f26-a8cb-e906" dataName="Savages" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Troopers.catz" dataType="catalogue" dataId="0ce7-0b07-08cf-08c0" dataName="Troopers" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Scavangers.catz" dataType="catalogue" dataId="faa2-9fc7-5be5-112d" dataName="Scavangers" dataBattleScribeVersion="2.01" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
